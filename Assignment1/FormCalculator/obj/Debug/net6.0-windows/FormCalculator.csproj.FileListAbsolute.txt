@@ -1,0 +1,17 @@
+E:\代码\Assignment1\FormCalculator\obj\Debug\net6.0-windows\FormCalculator.csproj.AssemblyReference.cache
+E:\代码\Assignment1\FormCalculator\obj\Debug\net6.0-windows\FormCalculator.Form1.resources
+E:\代码\Assignment1\FormCalculator\obj\Debug\net6.0-windows\FormCalculator.csproj.GenerateResource.cache
+E:\代码\Assignment1\FormCalculator\obj\Debug\net6.0-windows\FormCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\代码\Assignment1\FormCalculator\obj\Debug\net6.0-windows\FormCalculator.AssemblyInfoInputs.cache
+E:\代码\Assignment1\FormCalculator\obj\Debug\net6.0-windows\FormCalculator.AssemblyInfo.cs
+E:\代码\Assignment1\FormCalculator\obj\Debug\net6.0-windows\FormCalculator.csproj.CoreCompileInputs.cache
+E:\代码\Assignment1\FormCalculator\bin\Debug\net6.0-windows\FormCalculator.exe
+E:\代码\Assignment1\FormCalculator\bin\Debug\net6.0-windows\FormCalculator.deps.json
+E:\代码\Assignment1\FormCalculator\bin\Debug\net6.0-windows\FormCalculator.runtimeconfig.json
+E:\代码\Assignment1\FormCalculator\bin\Debug\net6.0-windows\FormCalculator.dll
+E:\代码\Assignment1\FormCalculator\bin\Debug\net6.0-windows\FormCalculator.pdb
+E:\代码\Assignment1\FormCalculator\obj\Debug\net6.0-windows\FormCalculator.dll
+E:\代码\Assignment1\FormCalculator\obj\Debug\net6.0-windows\refint\FormCalculator.dll
+E:\代码\Assignment1\FormCalculator\obj\Debug\net6.0-windows\FormCalculator.pdb
+E:\代码\Assignment1\FormCalculator\obj\Debug\net6.0-windows\FormCalculator.genruntimeconfig.cache
+E:\代码\Assignment1\FormCalculator\obj\Debug\net6.0-windows\ref\FormCalculator.dll

@@ -1,0 +1,15 @@
+E:\代码\Assignment1\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.exe
+E:\代码\Assignment1\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.deps.json
+E:\代码\Assignment1\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.runtimeconfig.json
+E:\代码\Assignment1\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.dll
+E:\代码\Assignment1\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.pdb
+E:\代码\Assignment1\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.csproj.AssemblyReference.cache
+E:\代码\Assignment1\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\代码\Assignment1\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.AssemblyInfoInputs.cache
+E:\代码\Assignment1\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.AssemblyInfo.cs
+E:\代码\Assignment1\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.csproj.CoreCompileInputs.cache
+E:\代码\Assignment1\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.dll
+E:\代码\Assignment1\ConsoleCalculator\obj\Debug\net6.0\refint\ConsoleCalculator.dll
+E:\代码\Assignment1\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.pdb
+E:\代码\Assignment1\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.genruntimeconfig.cache
+E:\代码\Assignment1\ConsoleCalculator\obj\Debug\net6.0\ref\ConsoleCalculator.dll
