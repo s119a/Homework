@@ -1,0 +1,15 @@
+E:\代码\Assignment2\GetPrimeFactors\obj\Debug\net6.0\GetPrimeFactors.csproj.AssemblyReference.cache
+E:\代码\Assignment2\GetPrimeFactors\obj\Debug\net6.0\GetPrimeFactors.GeneratedMSBuildEditorConfig.editorconfig
+E:\代码\Assignment2\GetPrimeFactors\obj\Debug\net6.0\GetPrimeFactors.AssemblyInfoInputs.cache
+E:\代码\Assignment2\GetPrimeFactors\obj\Debug\net6.0\GetPrimeFactors.AssemblyInfo.cs
+E:\代码\Assignment2\GetPrimeFactors\obj\Debug\net6.0\GetPrimeFactors.csproj.CoreCompileInputs.cache
+E:\代码\Assignment2\GetPrimeFactors\bin\Debug\net6.0\GetPrimeFactors.exe
+E:\代码\Assignment2\GetPrimeFactors\bin\Debug\net6.0\GetPrimeFactors.deps.json
+E:\代码\Assignment2\GetPrimeFactors\bin\Debug\net6.0\GetPrimeFactors.runtimeconfig.json
+E:\代码\Assignment2\GetPrimeFactors\bin\Debug\net6.0\GetPrimeFactors.dll
+E:\代码\Assignment2\GetPrimeFactors\bin\Debug\net6.0\GetPrimeFactors.pdb
+E:\代码\Assignment2\GetPrimeFactors\obj\Debug\net6.0\GetPrimeFactors.dll
+E:\代码\Assignment2\GetPrimeFactors\obj\Debug\net6.0\refint\GetPrimeFactors.dll
+E:\代码\Assignment2\GetPrimeFactors\obj\Debug\net6.0\GetPrimeFactors.pdb
+E:\代码\Assignment2\GetPrimeFactors\obj\Debug\net6.0\GetPrimeFactors.genruntimeconfig.cache
+E:\代码\Assignment2\GetPrimeFactors\obj\Debug\net6.0\ref\GetPrimeFactors.dll

@@ -1,0 +1,15 @@
+E:\代码\Assignment2\GetNum\obj\Debug\net6.0\GetNum.csproj.AssemblyReference.cache
+E:\代码\Assignment2\GetNum\obj\Debug\net6.0\GetNum.GeneratedMSBuildEditorConfig.editorconfig
+E:\代码\Assignment2\GetNum\obj\Debug\net6.0\GetNum.AssemblyInfoInputs.cache
+E:\代码\Assignment2\GetNum\obj\Debug\net6.0\GetNum.AssemblyInfo.cs
+E:\代码\Assignment2\GetNum\obj\Debug\net6.0\GetNum.csproj.CoreCompileInputs.cache
+E:\代码\Assignment2\GetNum\bin\Debug\net6.0\GetNum.exe
+E:\代码\Assignment2\GetNum\bin\Debug\net6.0\GetNum.deps.json
+E:\代码\Assignment2\GetNum\bin\Debug\net6.0\GetNum.runtimeconfig.json
+E:\代码\Assignment2\GetNum\bin\Debug\net6.0\GetNum.dll
+E:\代码\Assignment2\GetNum\bin\Debug\net6.0\GetNum.pdb
+E:\代码\Assignment2\GetNum\obj\Debug\net6.0\GetNum.dll
+E:\代码\Assignment2\GetNum\obj\Debug\net6.0\refint\GetNum.dll
+E:\代码\Assignment2\GetNum\obj\Debug\net6.0\GetNum.pdb
+E:\代码\Assignment2\GetNum\obj\Debug\net6.0\GetNum.genruntimeconfig.cache
+E:\代码\Assignment2\GetNum\obj\Debug\net6.0\ref\GetNum.dll

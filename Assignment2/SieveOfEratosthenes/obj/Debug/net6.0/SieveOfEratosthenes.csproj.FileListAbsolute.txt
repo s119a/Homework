@@ -1,0 +1,15 @@
+E:\代码\Assignment2\SieveOfEratosthenes\bin\Debug\net6.0\SieveOfEratosthenes.exe
+E:\代码\Assignment2\SieveOfEratosthenes\bin\Debug\net6.0\SieveOfEratosthenes.deps.json
+E:\代码\Assignment2\SieveOfEratosthenes\bin\Debug\net6.0\SieveOfEratosthenes.runtimeconfig.json
+E:\代码\Assignment2\SieveOfEratosthenes\bin\Debug\net6.0\SieveOfEratosthenes.dll
+E:\代码\Assignment2\SieveOfEratosthenes\bin\Debug\net6.0\SieveOfEratosthenes.pdb
+E:\代码\Assignment2\SieveOfEratosthenes\obj\Debug\net6.0\SieveOfEratosthenes.csproj.AssemblyReference.cache
+E:\代码\Assignment2\SieveOfEratosthenes\obj\Debug\net6.0\SieveOfEratosthenes.GeneratedMSBuildEditorConfig.editorconfig
+E:\代码\Assignment2\SieveOfEratosthenes\obj\Debug\net6.0\SieveOfEratosthenes.AssemblyInfoInputs.cache
+E:\代码\Assignment2\SieveOfEratosthenes\obj\Debug\net6.0\SieveOfEratosthenes.AssemblyInfo.cs
+E:\代码\Assignment2\SieveOfEratosthenes\obj\Debug\net6.0\SieveOfEratosthenes.csproj.CoreCompileInputs.cache
+E:\代码\Assignment2\SieveOfEratosthenes\obj\Debug\net6.0\SieveOfEratosthenes.dll
+E:\代码\Assignment2\SieveOfEratosthenes\obj\Debug\net6.0\refint\SieveOfEratosthenes.dll
+E:\代码\Assignment2\SieveOfEratosthenes\obj\Debug\net6.0\SieveOfEratosthenes.pdb
+E:\代码\Assignment2\SieveOfEratosthenes\obj\Debug\net6.0\SieveOfEratosthenes.genruntimeconfig.cache
+E:\代码\Assignment2\SieveOfEratosthenes\obj\Debug\net6.0\ref\SieveOfEratosthenes.dll

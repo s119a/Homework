@@ -1,0 +1,15 @@
+E:\代码\Assignment2\ToplitzMatrix\bin\Debug\net6.0\ToplitzMatrix.exe
+E:\代码\Assignment2\ToplitzMatrix\bin\Debug\net6.0\ToplitzMatrix.deps.json
+E:\代码\Assignment2\ToplitzMatrix\bin\Debug\net6.0\ToplitzMatrix.runtimeconfig.json
+E:\代码\Assignment2\ToplitzMatrix\bin\Debug\net6.0\ToplitzMatrix.dll
+E:\代码\Assignment2\ToplitzMatrix\bin\Debug\net6.0\ToplitzMatrix.pdb
+E:\代码\Assignment2\ToplitzMatrix\obj\Debug\net6.0\ToplitzMatrix.csproj.AssemblyReference.cache
+E:\代码\Assignment2\ToplitzMatrix\obj\Debug\net6.0\ToplitzMatrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\代码\Assignment2\ToplitzMatrix\obj\Debug\net6.0\ToplitzMatrix.AssemblyInfoInputs.cache
+E:\代码\Assignment2\ToplitzMatrix\obj\Debug\net6.0\ToplitzMatrix.AssemblyInfo.cs
+E:\代码\Assignment2\ToplitzMatrix\obj\Debug\net6.0\ToplitzMatrix.csproj.CoreCompileInputs.cache
+E:\代码\Assignment2\ToplitzMatrix\obj\Debug\net6.0\ToplitzMatrix.dll
+E:\代码\Assignment2\ToplitzMatrix\obj\Debug\net6.0\refint\ToplitzMatrix.dll
+E:\代码\Assignment2\ToplitzMatrix\obj\Debug\net6.0\ToplitzMatrix.pdb
+E:\代码\Assignment2\ToplitzMatrix\obj\Debug\net6.0\ToplitzMatrix.genruntimeconfig.cache
+E:\代码\Assignment2\ToplitzMatrix\obj\Debug\net6.0\ref\ToplitzMatrix.dll
