@@ -1,0 +1,15 @@
+E:\代码\Assignment5\OrderApp\bin\Debug\net6.0\OrderApp.exe
+E:\代码\Assignment5\OrderApp\bin\Debug\net6.0\OrderApp.deps.json
+E:\代码\Assignment5\OrderApp\bin\Debug\net6.0\OrderApp.runtimeconfig.json
+E:\代码\Assignment5\OrderApp\bin\Debug\net6.0\OrderApp.dll
+E:\代码\Assignment5\OrderApp\bin\Debug\net6.0\OrderApp.pdb
+E:\代码\Assignment5\OrderApp\obj\Debug\net6.0\OrderApp.csproj.AssemblyReference.cache
+E:\代码\Assignment5\OrderApp\obj\Debug\net6.0\OrderApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\代码\Assignment5\OrderApp\obj\Debug\net6.0\OrderApp.AssemblyInfoInputs.cache
+E:\代码\Assignment5\OrderApp\obj\Debug\net6.0\OrderApp.AssemblyInfo.cs
+E:\代码\Assignment5\OrderApp\obj\Debug\net6.0\OrderApp.csproj.CoreCompileInputs.cache
+E:\代码\Assignment5\OrderApp\obj\Debug\net6.0\OrderApp.dll
+E:\代码\Assignment5\OrderApp\obj\Debug\net6.0\refint\OrderApp.dll
+E:\代码\Assignment5\OrderApp\obj\Debug\net6.0\OrderApp.pdb
+E:\代码\Assignment5\OrderApp\obj\Debug\net6.0\OrderApp.genruntimeconfig.cache
+E:\代码\Assignment5\OrderApp\obj\Debug\net6.0\ref\OrderApp.dll
