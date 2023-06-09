@@ -1,0 +1,15 @@
+E:\代码\Assignment4\Clock\bin\Debug\net6.0\Clock.exe
+E:\代码\Assignment4\Clock\bin\Debug\net6.0\Clock.deps.json
+E:\代码\Assignment4\Clock\bin\Debug\net6.0\Clock.runtimeconfig.json
+E:\代码\Assignment4\Clock\bin\Debug\net6.0\Clock.dll
+E:\代码\Assignment4\Clock\bin\Debug\net6.0\Clock.pdb
+E:\代码\Assignment4\Clock\obj\Debug\net6.0\Clock.csproj.AssemblyReference.cache
+E:\代码\Assignment4\Clock\obj\Debug\net6.0\Clock.GeneratedMSBuildEditorConfig.editorconfig
+E:\代码\Assignment4\Clock\obj\Debug\net6.0\Clock.AssemblyInfoInputs.cache
+E:\代码\Assignment4\Clock\obj\Debug\net6.0\Clock.AssemblyInfo.cs
+E:\代码\Assignment4\Clock\obj\Debug\net6.0\Clock.csproj.CoreCompileInputs.cache
+E:\代码\Assignment4\Clock\obj\Debug\net6.0\Clock.dll
+E:\代码\Assignment4\Clock\obj\Debug\net6.0\refint\Clock.dll
+E:\代码\Assignment4\Clock\obj\Debug\net6.0\Clock.pdb
+E:\代码\Assignment4\Clock\obj\Debug\net6.0\Clock.genruntimeconfig.cache
+E:\代码\Assignment4\Clock\obj\Debug\net6.0\ref\Clock.dll

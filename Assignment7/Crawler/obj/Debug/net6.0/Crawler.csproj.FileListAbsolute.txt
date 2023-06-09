@@ -1,0 +1,15 @@
+E:\代码\Assignment7\Crawler\bin\Debug\net6.0\Crawler.exe
+E:\代码\Assignment7\Crawler\bin\Debug\net6.0\Crawler.deps.json
+E:\代码\Assignment7\Crawler\bin\Debug\net6.0\Crawler.runtimeconfig.json
+E:\代码\Assignment7\Crawler\bin\Debug\net6.0\Crawler.dll
+E:\代码\Assignment7\Crawler\bin\Debug\net6.0\Crawler.pdb
+E:\代码\Assignment7\Crawler\obj\Debug\net6.0\Crawler.csproj.AssemblyReference.cache
+E:\代码\Assignment7\Crawler\obj\Debug\net6.0\Crawler.GeneratedMSBuildEditorConfig.editorconfig
+E:\代码\Assignment7\Crawler\obj\Debug\net6.0\Crawler.AssemblyInfoInputs.cache
+E:\代码\Assignment7\Crawler\obj\Debug\net6.0\Crawler.AssemblyInfo.cs
+E:\代码\Assignment7\Crawler\obj\Debug\net6.0\Crawler.csproj.CoreCompileInputs.cache
+E:\代码\Assignment7\Crawler\obj\Debug\net6.0\Crawler.dll
+E:\代码\Assignment7\Crawler\obj\Debug\net6.0\refint\Crawler.dll
+E:\代码\Assignment7\Crawler\obj\Debug\net6.0\Crawler.pdb
+E:\代码\Assignment7\Crawler\obj\Debug\net6.0\Crawler.genruntimeconfig.cache
+E:\代码\Assignment7\Crawler\obj\Debug\net6.0\ref\Crawler.dll
